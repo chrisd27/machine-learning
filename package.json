@@ -1,0 +1,19 @@
+{
+  "name": "machine-learning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisd27/machine-learning.git"
+  },
+  "author": "Chris",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chrisd27/machine-learning/issues"
+  },
+  "homepage": "https://github.com/chrisd27/machine-learning#readme"
+}
